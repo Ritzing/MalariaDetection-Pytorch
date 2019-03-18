@@ -22,6 +22,8 @@ Malaria parasites can be identified by examining under the microscope a drop of 
 
 malaria
 
+![Image](/images/malariaimg.png)
+
 references :
 
 - [1] https://www.who.int/news-room/fact-sheets/detail/malaria

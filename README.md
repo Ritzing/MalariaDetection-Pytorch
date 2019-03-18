@@ -22,7 +22,7 @@ Malaria parasites can be identified by examining under the microscope a drop of 
 
 malaria
 
-![Image](/images/malariaimg.png)
+![Image](MalariaDetection-Pytorch/Image/malariaimg.PNG)
 
 references :
 

@@ -20,8 +20,6 @@ Malaria is an acute febrile illness. In a non-immune individual, symptoms usuall
 
 Malaria parasites can be identified by examining under the microscope a drop of the patient’s blood, spread out as a “blood smear” on a microscope slide. Prior to examination, the specimen is stained to give the parasites a distinctive appearance. This technique remains the gold standard for laboratory confirmation of malaria. However, it depends on the quality of the reagents, of the microscope, and on the experience of the laboratorian.
 
-malaria
-
 ![Image](/Image/malariaimg.png)
 
 references :
